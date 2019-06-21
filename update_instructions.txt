@@ -1,0 +1,3 @@
+git fetch guided-module-one-project-assessment-nyc-web-060319 master
+git subtree pull --prefix project guided-module-one-project-assessment-nyc-web-060319 master --squash
+# https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree
